@@ -82,7 +82,7 @@ Saved the best model and encoders using `pickle` for future predictions.
 
 M Zohaib Shahid  
 _Data Science Enthusiast | ML Developer_  
-📫 [LinkedIn Profile](https://www.linkedin.com) *(update with your link)*
+
 
 ---
 
